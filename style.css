@@ -1,0 +1,22 @@
+@font-face {
+    font-family:Fredoka ;
+    src: url(Fredoka-SemiBold.ttf);
+ }
+ body{
+    background-color: bisque;
+ }
+.main-container{
+    border: dotted 5px purple;
+}
+.nested-container{
+    border: solid 3px palevioletred;
+    padding: 20px;
+    margin: 5%;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: Fredoka;
+    font-size: 60px;
+    font-style: italic;
+}
